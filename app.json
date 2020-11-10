@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "Pomodoro Timer",
     "slug": "Pomodoro",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Pomodoro Time written in React Native",
+    "githubUrl": "https://github.com/despotes/pomodoro-react-native"
   }
 }
